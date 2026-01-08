@@ -4,7 +4,7 @@
 ![Região](https://img.shields.io/badge/Foco-Piau%C3%AD%20--%20Brasil-blue)
 
 ## 🎥 Demonstração do Painel
-![GIF do Dashboard de Estoque](https://drive.google.com/file/d/1YF18iPQy4IAmhXK1tRpG3fIouj3j7Moj/view?usp=sharing)
+![GIF do Dashboard de Estoque](Gravação-de-Tela-2025-11-17-231756.gif)
 
 ## 📋 Sobre o Projeto
 Este dashboard foi desenvolvido para monitorar o ciclo completo de suprimentos da rede de saúde do Piauí. Ele integra dados do **CAF (Centro de Distribuição)**, estoque interno dos **Hospitais** e o atendimento direto aos pacientes através da **Farmácia do Povo**.
